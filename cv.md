@@ -1,5 +1,5 @@
 # Emma Maksimava
-==============
+
 ## My Contact Info
 
  * **Address:** Krakow, Malopolskie, Poland
@@ -24,7 +24,7 @@
  * JavaScript (Fundamentals, DOM, ES6+, OOP)
  * Version control: Git (basic knowledge)
  * Module Bundlers: Gulp (basic knowledge)
- 
+
 **Education**
 ---------
  I have a higher education. I took trainings at GoIT on HTML / CSS Basics, Python Basics. Successfully completed the online course on HTML and CSS on Udemy. At the moment I'm taking courses on native JS with React and Vue frameworks. And I'm delighted to have a wonderful real-world coding experience at RS School at EPAM.
@@ -58,11 +58,11 @@
 
 **Languages**
 ----------------
- ### English
+**English**
  According to the last test of the level of English on the Streamline platform: Pre-Intermediate (CEFR A2 +). I also take English trainings on the BBC Learning English resource.
 
- ### Polish
+ **Polish**
  Know Polish at A1 level.
 
- ### Russian
+ **Russian**
  Russian is native.
