@@ -53,3 +53,14 @@ Education
   return pileOfTowels;
  }
 ```
+
+Languages
+ ----------------
+ ### English
+ According to the last test of the level of English on the Streamline platform: Pre-Intermediate (CEFR A2 +). I also take English trainings on the BBC Learning English resource.
+
+ ### Polish
+ Know Polish at A1 level.
+
+ ### Russian
+ Russian is native.
