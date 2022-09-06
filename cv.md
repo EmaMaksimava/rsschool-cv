@@ -27,4 +27,29 @@ Education
  ---------
  I have a higher education. I took trainings at GoIT on HTML / CSS Basics, Python Basics. Successfully completed the online course on HTML and CSS on Udemy. At the moment I'm taking courses on native JS with React and Vue frameworks. And I'm delighted to have a wonderful real-world coding experience at RS School at EPAM.
 
- 
+ Code Examples
+ -------------
+ ``` javascript
+ function sortpages) according to the program
+ IT courses.
+ ThePile(pileOfTowels, weeklyUsedTowels) {
+  console.log(pileOfTowels, weeklyUsedTowels)
+  for (const t of weeklyUsedTowels) {
+    if (t === 0) continue;
+    const usedTowels = pileOfTowels.splice(-t);
+    const washedTowels = [];
+
+    for (const towel of usedTowels) {
+     if (towel === 'red') {
+       washedTowels.unshift(towel);
+     } else {
+       washedTowels.push(towel);
+     }
+    }
+
+    pileOfTowels = pileOfTowels.concat(washedTowels);
+  }
+
+  return pileOfTowels;
+ }
+```
