@@ -16,7 +16,7 @@ body {
   "sidebar main";
   margin: 0 auto;
   max-width: 1200px;
-  background-color: #fae6a0;
+  background: linear-gradient(180deg, #f2d1be, #e5dce7);
   box-shadow: 7px 10px 20px rgba(0, 0, 0, 0.322);
   border-left: 8px solid #f4bf13;
   border-right: 8px solid #f4bf13;
@@ -37,7 +37,7 @@ nav {
   "languages";
   gap: 20px;
   padding: 40px 0px;
-  background: linear-gradient(180deg, #f09560, #d360f0);
+  background-color: #fdcd2e;
 }
 .sidebar h3 {
   font-size: 24px;
@@ -238,19 +238,20 @@ pre {
   font-size: 20px;
   line-height: 22px;
 }
-footer {
+.footer {
   margin-top: 25px;
+  margin-bottom: 45px;
   display:flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 .footer-github {
-  width: 75px;
-  height: 75px;
+  width: 50px;
+  height: 50px;
 }
 .footer-rs-school {
-  width: 150px;
-  height: 75px;
+  width: 125px;
+  height: 55px;
 }
 .footer-info {
   font-size: 17px;
